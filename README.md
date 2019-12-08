@@ -1,3 +1,1 @@
-Demo git of ThangNQ
-
-Ha ha
+TODO LIST
